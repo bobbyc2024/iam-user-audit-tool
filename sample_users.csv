@@ -1,0 +1,6 @@
+username,name,status,mfa_enabled,role,last_login_days
+goku,Son Goku,Active,Yes,User,2
+vegeta,Vegeta,Active,No,User,5
+gojo,Satoru Gojo,Active,Yes,Admin,1
+itachi,Itachi Uchiha,Inactive,No,User,120
+levi,Levi Ackerman,Active,No,Admin,45
